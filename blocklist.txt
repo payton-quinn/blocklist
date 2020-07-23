@@ -27,11 +27,6 @@ pbs.getpublica.com
 pcor3.manifest.auditude.com
 prd.jwpltx.com
 pubsub.pubnub.com
-r1---sn-nx5s7n7s.googlevideo.com
-r2---sn-nx5s7n7z.googlevideo.com
-r3---sn-nx5e6nez.googlevideo.com
-r4---sn-nx57ynl6.googlevideo.com
-r6---sn-nx57ynlz.googlevideo.com
 ravm.tv
 semanticlocation-pa.googleapis.com
 static.foxtv.com
