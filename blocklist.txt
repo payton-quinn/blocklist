@@ -16,7 +16,6 @@ captive.roku.com
 cloudservices.roku.com
 configsvc.cs.roku.com
 display.ravm.tv
-eligibility-panelresearch.googlevideo.com
 event.spotxchange.com
 images.sr.roku.com
 imtwjwoasak.com
